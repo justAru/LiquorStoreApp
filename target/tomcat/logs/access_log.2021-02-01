@@ -1,0 +1,3 @@
+0:0:0:0:0:0:0:1 - - [01/Feb/2021:23:28:21 +0600] "GET /LiquorStoreApp/ HTTP/1.1" 200 474 http-bio-8080-exec-1 69
+0:0:0:0:0:0:0:1 - - [01/Feb/2021:23:28:31 +0600] "POST /LiquorStoreApp/SelectLiquor HTTP/1.1" 200 164 http-bio-8080-exec-3 1247
+0:0:0:0:0:0:0:1 - - [01/Feb/2021:23:29:50 +0600] "POST /LiquorStoreApp/SelectLiquor HTTP/1.1" 200 164 http-bio-8080-exec-5 3
